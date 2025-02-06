@@ -1,0 +1,7 @@
+{
+  "navitars": [
+    { "id": 1, "name": "Frostbite", "powerLevel": 95, "type": "Ice", "abilities": ["Freeze Blast", "Shield", "Speed Boost"] },
+    { "id": 2, "name": "Voltstrike", "powerLevel": 88, "type": "Electric", "abilities": ["Thunderbolt", "Charge Up", "Shockwave"] },
+    { "id": 3, "name": "Shadowfang", "powerLevel": 92, "type": "Dark", "abilities": ["Stealth Mode", "Night Slash", "Phantom Step"] }
+  ]
+}
