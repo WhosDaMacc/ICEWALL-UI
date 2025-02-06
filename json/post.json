@@ -1,0 +1,6 @@
+{
+  "posts": [
+    { "id": 1, "title": "Welcome to Ice Wall", "content": "Explore the AR-powered financial metaverse!" },
+    { "id": 2, "title": "Navitar Battles", "content": "Upgrade your Navitar and win championships!" }
+  ]
+}
