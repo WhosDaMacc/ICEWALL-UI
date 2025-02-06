@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "id": 1, "name": "Alice", "role": "Admin", "score": 100 },
+    { "id": 2, "name": "Bob", "role": "Player", "score": 80 },
+    { "id": 3, "name": "Charlie", "role": "Spectator", "score": 50 }
+  ]
+}
